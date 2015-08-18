@@ -1,0 +1,1 @@
+Simple meteor demonstration using jonblum:jquery-cropper to crop and display a cropped image.
